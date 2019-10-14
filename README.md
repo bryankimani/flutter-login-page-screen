@@ -1,5 +1,7 @@
 # login_page_ui
 
+![Alt text](https://github.com/bryankimani/flutter-login-page-screen/blob/master/Screenshot.png "Optional title")
+
 A new Flutter project.
 
 ## Getting Started
